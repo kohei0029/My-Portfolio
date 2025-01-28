@@ -62,7 +62,8 @@
   - hudeRobo.jpg  
   - hudeRobo1.mp4  
   - hudeRobo2.mp4  
-- **riceCooker_3DCAD**  
+- **riceCooker_3DCAD** 
+  - 炊飯器.png
   - 炊飯器動画.mp4  
   - その他（.SLDPRTファイル）  
 - **wasteSeparationManipulator**  
